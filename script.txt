@@ -1,0 +1,37 @@
+to download from s3 -- aws s3 cp s3://test-first-bucket-1221/2209d0832f36a97a388b7229b5ae6b29.webp a.webp
+
+to upload from ec2 -- aws s3 cp a.webp s3://test-first-bucket-1221/asdf.webp
+
+Y
+sudo apt  install awscli
+aws configure
+
+Y
+sudo apt install ffmpeg
+
+node -v
+
+ npm -v
+
+sudo apt-get install nodejs
+
+curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+sudo apt install curl -y
+sudo apt policy nodejs
+sudo apt policy nodejs
+Y
+sudo apt update
+
+ssh ubuntu@65.0.12.62 -i test-key.pem
+
+
+
+sudo apt upgrade
+Y
+sudo apt policy nodejs
+
+
+
+
+
+
